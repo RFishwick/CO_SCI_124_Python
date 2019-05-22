@@ -37,5 +37,5 @@ price = qty * UNIT_COST
 # Calculate the net price after discount
 net_price = price - (price * discount_percent)
 
-# Print the net price
+# Print the net price formatted
 print('Total purchase price: $', format(net_price, ',.2f'))
