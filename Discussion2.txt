@@ -1,0 +1,12 @@
+COSCI 124 Ð Discussion 2
+
+The following assignment is from page 28 of your book. Please post your reply.
+
+Use the Internet to research the history of the Python programming language, and answer the following questions:
+
+Who was the creator of Python? Guido van Rossum
+When was Python created? Implementation began on 12/89.  First release: 2/20/1991
+In the Python programming community, the person who created Python is commonly referred to as the "BDFL." What does this mean? "Benevolent Dictator For Life"
+
+
+
